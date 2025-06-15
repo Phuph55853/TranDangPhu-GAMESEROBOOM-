@@ -9,6 +9,9 @@ TagManager:
   - Apple
   - Banana
   - 'target '
+  - Medicine
+  - Stone
+  - Worm
   layers:
   - Default
   - TransparentFX
@@ -16,9 +19,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Obstacle
+  - cantMove
+  - WormBodyLayer
   - 
   - 
   - 

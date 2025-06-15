@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53e45370e88ad8d4389fd583bb44608c, type: 3}
+  m_Name: Map Data
+  m_EditorClassIdentifier: 
+  maps:
+  - mapName: Level1
+    mapPrefab: {fileID: 5939370989293130834, guid: c434527b95f340f428ed1b64c3541de4, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - mapName: Level2
+    mapPrefab: {fileID: 22274844679738030, guid: edd72497ac7288545b1b3333ad400d5b, type: 3}
+    spawnPosition: {x: 0, y: 0, z: 0}
